@@ -22,10 +22,11 @@
 
 ### ⚙️ GitHub Stats
 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=IsaacBarbosa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacBarbosa&layout=compact&langs_count=7&theme=radical"/>
-</div>
+<p align="center" style="display:flex; gap:20px; justify-content:center; flex-wrap:wrap;">
+  <!-- Total contributions & commits -->
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IsaacBarbosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&border_radius=15"/>
+</p>
+
 
 ---
 
